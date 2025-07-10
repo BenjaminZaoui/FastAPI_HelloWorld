@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Étape 1 : Vérification du code sources
+      # Étape 1 : Vérification du code source
       - name: Checkout code
         uses: actions/checkout@v3
 
